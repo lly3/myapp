@@ -4,4 +4,8 @@ public class Z {
 	public Z(float z) {
 		this.z = z;
 	}
+
+	public float getZ() {
+		return this.z;
+	}
 }
