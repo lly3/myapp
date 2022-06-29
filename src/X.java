@@ -4,4 +4,8 @@ public class X{
   public X(float x) {
     this.x = x;
   }
+
+  public float getX() {
+    return this.x;
+  }
 }
