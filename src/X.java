@@ -4,4 +4,5 @@ public class X{
   public X(float x) {
     this.x = x;
   }
+
 }
